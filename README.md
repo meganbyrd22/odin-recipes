@@ -7,6 +7,6 @@ Core skills: HTML, CSS, Git
 
 Detailed skills: HTML file creation via Git, HTML boilerplate, multi-page website, link to images, ordered and unordered lists, minimal CSS
 
-Live preview: https://meganbyrd22.github.io/odin-recipes/
+Live demo: https://meganbyrd22.github.io/odin-recipes/
 
 (Completed September 2022)
