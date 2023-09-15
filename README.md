@@ -10,3 +10,5 @@ The project is a very basic website created with HTML and later updated with CSS
 Live demo: https://meganbyrd22.github.io/odin-recipes/
 
 (Completed September 2022)
+
+I'm updating this README to test the branch I just made to practice PRs.
